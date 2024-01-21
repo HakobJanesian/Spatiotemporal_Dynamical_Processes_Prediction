@@ -1,0 +1,2 @@
+# Spatiotemporal_Dynamical_Processes_Prediction
+Using physics-informed neural networks to predict spatiotemporal dynamical processes
