@@ -1,2 +1,2 @@
-# Spatiotemporal_Dynamical_Processes_Prediction
-Using physics-informed neural networks to predict spatiotemporal dynamical processes
+THE old name of ALLINPUTPINN is GALAXYNET
+Also there is an additional folder named src that is the place for other packages
